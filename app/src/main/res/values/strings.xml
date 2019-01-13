@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arcum</string>
+    <string name="title_activity_task">Sightmarks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="task_title_hint">Enter the distance shot</string>
+    <string name="task_title_label">DISTANCE</string>
+    <string name="task_details_label">SIGHTMARK DETAILS</string>
+    <string name="extension_detail_hint">Enter Extension</string>
+    <string name="sightmark_title_hint">Sightmark</string>
+    <string name="extension_title_hint">Extension</string>
+    <string name="sightmark_detail_hint">Enter Sightmark</string>
+    <string name="sightmark_extention_hint">Extension</string>
+    <string name="submit_button">Submit</string>
+    <string name="sightmark_distance_label">Distance:</string>
+    <string name="sightmark_extension_label">Extension:</string>
+    <string name="sightmark_mark_label">Sightmark:</string>
+    <string name="new_sightmark">New Sightmark</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
