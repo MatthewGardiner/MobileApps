@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:design:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\df3f0fd2b2b92d326a8f06a4817e8945\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28b4b2b4082be78376751caf378f7a82\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\3df00cd25592908a210d20043df17fa7\AndroidManifest.xml:17:1-27:12
@@ -16,25 +16,25 @@ MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\matth\.gr
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\9103a3738d5dbb4598b45f9bf3d98d9b\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\bfaf694b7899c2dc7c948475332f3061\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ca18d2863ac6d4e65d73e31ea321562f\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:7:5-29:19
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:7:5-29:19
 MERGED from [com.android.support:design:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\df3f0fd2b2b92d326a8f06a4817e8945\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\df3f0fd2b2b92d326a8f06a4817e8945\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28b4b2b4082be78376751caf378f7a82\AndroidManifest.xml:25:5-20
@@ -58,49 +58,49 @@ MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matth\.gradle\
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ca18d2863ac6d4e65d73e31ea321562f\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ca18d2863ac6d4e65d73e31ea321562f\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:9:9-45
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:9:9-45
 	android:allowBackup
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.taskmanager3.sightmarks.TaskListActivity
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:12:9-20:20
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:label
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:13:13-56
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:13:13-56
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.example.taskmanager3.sightmarks.TaskPagerActivity
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:21:9-24:82
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:21:9-24:82
 	android:parentActivityName
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:24:13-70
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:24:13-70
 	android:label
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:22:13-57
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:22:13-57
 activity#com.example.taskmanager3.MainActivity
-ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:25:9-28:68
+ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:25:9-28:68
 	android:label
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:27:13-56
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:27:13-56
 	android:theme
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:28:13-56
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml:26:13-41
 uses-sdk
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\df3f0fd2b2b92d326a8f06a4817e8945\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\df3f0fd2b2b92d326a8f06a4817e8945\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28b4b2b4082be78376751caf378f7a82\AndroidManifest.xml:21:5-23:78
@@ -125,15 +125,15 @@ MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matth\.gradle\
 MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\bfaf694b7899c2dc7c948475332f3061\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ca18d2863ac6d4e65d73e31ea321562f\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ca18d2863ac6d4e65d73e31ea321562f\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\28b4b2b4082be78376751caf378f7a82\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\matth\Documents\working code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matth\Documents\arcum\app\src\main\AndroidManifest.xml

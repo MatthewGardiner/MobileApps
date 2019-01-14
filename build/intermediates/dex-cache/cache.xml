@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a526649886d44eacc2c0c322c7af4a13ab57821b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e223dc1e0372eef87638c4cfe7fcf10def57f4a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3220a07b70b53f7b484a19304c2ddbf9f4df44ed">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d43b84b22d77380f5f20a8494b529f33f97b186b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a685d121d0bc297be17d13a0a856000457b9f8b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_686a9db5255482e1d97a66b60277f726dcbbd520/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="03928270c2a4df540ebef3ca6f12ffe9c4e10882">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6dfaec2826600a415bebc1bf21592c7ed0cfb288/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ab25deef3eb185c793e091ab07abe531b7457da9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3e2cfac76f195bf12d8a3643e40cbadc03c4c997/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6d6aac27b328cdf12bbb8ede42fdba1743bbacb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2f4f35fc2ab6b8e0b199303c611b54aec57a371f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_3a9eb5f0ee850a66f20be593470646aa6b286b7e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_3b8cf69de2481bbf04a18951780460afa5feb845/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ebe221e9e530c3a700493231918dbfe924c772e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a84ef8b2f610adc40ebe5f11e882703c664406a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_2e57f215cb9e81f1fd1a782acce6bb2ebe5b9fe3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_44c3ed1f5862ca55d0e61f2e532d7ca65afd9b53/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e76d82caf3352c70053d37034330f9e0d7d097c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dthakker/tablet/working code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/dthakker/tablet/working code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d71fd64971b8486f1caa71554cf085ba2ea3c3b3/classes.dex" />
+    </item>
+
+</items>

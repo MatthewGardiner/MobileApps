@@ -1,13 +1,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.taskmanager3.TaskActivity" >
+    tools:context="com.example.taskmanager3.TaskActivity">
 
-    <item 
-    android:id="@+id/menu_item_new_task"
-    android:icon="@android:drawable/ic_menu_add"
-    android:title="@string/new_sightmark"
-    app:showAsAction = "ifRoom|withText"
-    />
+    <item
+        android:id="@+id/menu_item_new_task"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/new_sightmark"
+        app:showAsAction="ifRoom|withText" />
 
 </menu>

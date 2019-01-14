@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\matth\\Documents\\working code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\matth\\Documents\\arcum\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\matth\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\df3f0fd2b2b92d326a8f06a4817e8945\\res\\values-land\\values-land.xml",
