@@ -1,4 +1,4 @@
-#Mon Jan 14 02:01:26 GMT 2019
-base.0=C\:\\Users\\matth\\Documents\\arcum\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jan 15 05:32:01 GMT 2019
+base.0=C\:\\Users\\matth\\Documents\\arcum\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
